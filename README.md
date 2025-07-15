@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Building front-end projects with React, Redux, TailwindCSS, and solving C++ algorithms.<br>👯 I’m looking to collaborate on Open-source React, TailwindCSS, or C++ algorithmic projects.<br>🤝 I’m looking for help with Optimizing React performance and advanced Redux patterns.<br>🌱 I’m currently learning to learn. Also, I am learning Data Structure and Algorithm Using C++ and MERN.<br>💬 Ask me about Full Stack development with MERN or C++ problem-solving.<br>⚡ Fun fact I started with simple apps and now build complex systems in C++ and React!.<br>📫 How to reach me zohaibrasheed983@gmail.com
+🎯 I'm a Full Stack Developer transitioning into the exciting world of AI/ML and Data Science.<br>
+🔍 Currently exploring projects in Machine Learning, NLP, and model deployment using Python, scikit-learn, and TensorFlow.<br>
+🧠 Working on beginner-friendly AI projects like house price prediction and sentiment analysis.<br>
+🛠️ Still passionate about React, Redux, TailwindCSS, and C++ algorithms.<br>
+🤝 Always open to collaborate on AI, MERN stack, or open-source projects that solve real-world problems.<br>
+🌱 Currently learning ML algorithms, data preprocessing, and tools like Hugging Face Transformers and LangChain.<br>
+💬 Ask me about MERN stack development, basic ML workflows, or setting up real-time chat apps with a sprinkle of AI.<br>
+📫 Reach me at: zohaibrasheed983@gmail.com
 
 
 ## 🌐 Socials:
