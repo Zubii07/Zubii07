@@ -1,8 +1,6 @@
 # 💫 About Me:
 🎯 I'm a Full Stack Developer transitioning into the exciting world of AI/ML and Data Science.<br>
-🔍 Currently exploring projects in Machine Learning, NLP, and model deployment using Python, scikit-learn, and TensorFlow.<br>
-🧠 Working on beginner-friendly AI projects like house price prediction and sentiment analysis.<br>
-🛠️ Still passionate about React, Redux, TailwindCSS, and C++ algorithms.<br>
+🔍 Currently exploring and building projects in Machine Learning, NLP, and model deployment using Python, scikit-learn, and TensorFlow.<br>
 🤝 Always open to collaborate on AI, MERN stack, or open-source projects that solve real-world problems.<br>
 🌱 Currently learning ML algorithms, data preprocessing, and tools like Hugging Face Transformers and LangChain.<br>
 💬 Ask me about MERN stack development, basic ML workflows, or setting up real-time chat apps with a sprinkle of AI.<br>
