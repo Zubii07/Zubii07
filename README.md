@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎯 I'm a Full Stack Developer transitioning into the exciting world of AI/ML and Data Science.<br>
 🔍 Currently exploring and building projects in Machine Learning, NLP, and model deployment using Python, scikit-learn, and TensorFlow.<br>
 🤝 Always open to collaborate on AI, MERN stack, or open-source projects that solve real world problems.<br>
